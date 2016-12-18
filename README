@@ -1,0 +1,5 @@
+This project aims at finding the dependency among various classes in an application, and using that dependency graph to
+find the test cases that need to be re-run from a Test Suite if changes are made to a certain class. The overall benefit
+is that all test cases need not be run after making changes to any class, and the regression test effort is significantly reduced.
+
+To run the application, run DevendencyView as a Java Application in Eclipse.
